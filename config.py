@@ -1,0 +1,1 @@
+weather_api_key="82f29bcc235b6f926b0975ae8530776f"
